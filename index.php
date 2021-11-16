@@ -21,7 +21,7 @@
 <hr>
 <p>Address    :   Bugu-Ene 63            </p>
 <hr>
-<p>Class  :  Csc-20a.       </p>
+<p>Class  :  Csc-20a       </p>
 <hr>
 
 </body>
