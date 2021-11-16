@@ -13,12 +13,6 @@
 
 <p><img src="https://thumb.tildacdn.com/tild3535-3966-4038-a163-636265636439/-/resize/560x/-/format/webp/IMG_1581.JPG"></p>
  <style>
-img {
-  border-radius: 50%;
-  display: block;
-  margin-left: auto;
-}
-</style> 
 
 <hr>
 
